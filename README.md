@@ -78,6 +78,9 @@ PHP 5.2.4 or higher.
 
 [Pierre-Henry Soria](http://pierrehenry.be)
 
+## Author of the changed project 
+René Bolf
+Contact me: *bolf [[AT]] inqool [[D0T]] cz*
 
 ## Contact
 
