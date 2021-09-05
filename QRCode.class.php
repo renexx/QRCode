@@ -3,7 +3,7 @@
  * @title            QR Code
  * @desc             Compatible to vCard 4.0 or higher. BUT now VERSION 3.0
  *
- * @author           Pierre-Henry Soria <ph7software@gmail.com>
+ * @author           Original Author Pierre-Henry Soria <ph7software@gmail.com>
  * @author           Rene Bolf <bolf@inqool.cz> change VERSION 4.0 to VERSION 3.0
  * @copyright        (c) 2012-2021, Pierre-Henry Soria. All Rights Reserved.
  * @license          GNU General Public License <http://www.gnu.org/licenses/gpl.html>

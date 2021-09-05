@@ -1,14 +1,6 @@
 {
   "name": "renexx/qrcode",
-  "description": "Light QRCode PHP class (library). QR Code Generator using vCard 3.0 and the Google Chart AP",
-  "keywords": [
-    "qr code",
-    "qr code library",
-    "library",
-    "qr code class",
-    "class",
-    "vCard"
-  ],
+  "description": "Vcard 3.0",
   "type": "library",
   "license": "GPL-3.0+",
   "require": {
