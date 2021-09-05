@@ -10,16 +10,7 @@
     "vCard"
   ],
   "type": "library",
-  "homepage": "http://hizup.uk",
   "license": "GPL-3.0+",
-  "authors": [
-    {
-      "name": "Pierre-Henry Soria",
-      "email": "phy@hizup.uk",
-      "homepage": "http://hizup.uk",
-      "role": "Web Engineer"
-    }
-  ],
   "require": {
     "php": ">=5.2.4"
   },
