@@ -18,6 +18,12 @@ Here are two videos explaining QR code: http://www.youtube.com/watch?v=B3lrcOhmp
 ```bash
 $ composer require ph-7/qrcode-generator-php-class
  ```
+ 
+ If you want Vcard Version 3.0 (works for Iphone and Android devices) use my project
+ 
+```bash
+$ composer require renexx/qrcode
+ ```
 
 Then, include Composer's autoload
 
