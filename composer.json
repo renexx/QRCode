@@ -1,6 +1,6 @@
 {
-  "name": "ph-7/qrcode-generator-php-class",
-  "description": "Light QRCode PHP class (library). QR Code Generator using vCard 4.0 and the Google Chart AP",
+  "name": "qrcode-version3-0",
+  "description": "Light QRCode PHP class (library). QR Code Generator using vCard 3.0 and the Google Chart AP",
   "keywords": [
     "qr code",
     "qr code library",

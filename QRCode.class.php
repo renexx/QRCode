@@ -1,9 +1,10 @@
 <?php
 /**
  * @title            QR Code
- * @desc             Compatible to vCard 4.0 or higher.
+ * @desc             Compatible to vCard 4.0 or higher. BUT now VERSION 3.0
  *
  * @author           Pierre-Henry Soria <ph7software@gmail.com>
+ * @author           Rene Bolf <bolf@inqool.cz> change VERSION 4.0 to VERSION 3.0
  * @copyright        (c) 2012-2021, Pierre-Henry Soria. All Rights Reserved.
  * @license          GNU General Public License <http://www.gnu.org/licenses/gpl.html>
  * @version          1.2
@@ -22,7 +23,7 @@ class QRCode
     public function __construct()
     {
         $this->sData = 'BEGIN:VCARD' . "\n";
-        $this->sData .= 'VERSION:4.0' . "\n";
+        $this->sData .= 'VERSION:3.0' . "\n"; // change from 4.0 to 3.0 because iphone doesnt support 4.0
     }
 
     /**
