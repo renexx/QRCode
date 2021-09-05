@@ -1,5 +1,5 @@
 {
-  "name": "renexx/QRCode",
+  "name": "renexx/qrcode",
   "description": "Light QRCode PHP class (library). QR Code Generator using vCard 3.0 and the Google Chart AP",
   "keywords": [
     "qr code",
